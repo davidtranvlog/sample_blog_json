@@ -1,10 +1,4 @@
 {
-    "feed" : {
-        "title": "David Tran Blog",
-        "link": "https://wallie.mykajabi.com/blog",
-        "author": "David Tran"
-    },
-    
     "episodes" : [
         {
             "title": "Complete Guide on Mastering Auto Layout in iOS",
