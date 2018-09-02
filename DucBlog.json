@@ -1,0 +1,117 @@
+{
+    "feed" : {
+        "title": "David Tran Blog",
+        "link": "https://wallie.mykajabi.com/blog",
+        "author": "David Tran"
+    },
+    
+    "episodes" : [
+        {
+            "title": "Complete Guide on Mastering Auto Layout in iOS",
+            "link": "https://www.wallie.mykajabi.com/blog/complete-guide-on-mastering-auto-layout-in-ios",
+            "pubDate": "Mon, 28 Mar 2018",
+            "author": "David Tran",
+            "description": "Have you wanted to make more people discover your apps? How about your users can access the app's content any where in iPhone, via Spotlight? These episodes give you the answer to them!",
+            "thumbnailURL": "https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/888/images/TeZaC95URIK89DdE4iTA_DucTran-41-Auto-Layout-Tutorial.png"
+        },
+        
+        {
+            "title": "REST API and JSON: Build iTunes Store Search",
+            "link": "https://www.wallie.mykajabi.com/blog/rest-api-and-json-build-itunes-store-search",
+            "pubDate": "Mon, 28 Mar 2018",
+            "author": "David Tran",
+            "description": "3D touch is the future of multi-touch! It adds a whole new experience and layer of interaction to your app. In this episode, we are going to learn how to use Peek in 3D touch to display a preview for our app. ",
+            "thumbnailURL": "https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/888/images/CCv3rG9SvfCU1nJEFWQq_33-REST-API-iTunes-Store-Search.png"
+        },
+        
+        {
+            "title": "Forget Code? How to Get Better?",
+            "link": "https://www.wallie.mykajabi.com/blog/forget-code-how-to-get-better",
+            "pubDate": "Mon, 28 Mar 2018",
+            "author": "David Tran",
+            "description" : "Learn everything you need to know about UICollectionView in iOS and WebView. Build a news reader app with them in iOS and Swift",
+            "thumbnailURL": "https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/888/images/QVFGwR0JSdGY79VHUVSH_10-ForgetCodeAndHowToGetBetter-DucTran-CodeMastery-Thumbnail.png"
+        },
+        
+        {
+            "title": "How to Build Social Network Apps for iOS, Android and Web",
+            "link": "https://www.wallie.mykajabi.com/blog/how-to-build-social-network-apps-for-ios-android-and-web",
+            "pubDate": "Thu, 17 Mar 2018",
+            "author": "David Tran",
+            "description": "Learn how to use the camera in iOS devices to take photo and video.",
+            "thumbnailURL": "https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/888/images/8Vey7e2hRb2Pjh0xPyiS_9-HowToBuildSocialNetworkApps-DucTran.png"
+        },
+        
+        {
+            "title": "How to Get Paid as a Freelancer",
+            "link": "https://www.wallie.mykajabi.com/blog/how-to-get-paid-as-a-freelancer",
+            "pubDate": "Tue, 15 Mar 2018",
+            "author": "David Tran",
+            "description": "In this special livecast of Code Hangout #43, we talked all things about Swift from installing the tools to array. This is just part 1 of the series, if you would like to join me in part 2.",
+            "thumbnailURL": "https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/888/images/SGRzv0OQTHmfdKqtrkS9_QAFriday-1-HowtoGetPaidAsAFreelancer-DucTran-Thumbnail-1.png"
+        },
+        
+        {
+            "title": "How Successful People Become Successful?",
+            "link": "https://www.wallie.mykajabi.com/blog/how-successful-people-become-successful",
+            "pubDate": "Sun, 13 Mar 2018",
+            "author": "David Tran",
+                  "description" : "Playing sound and audio files in your app? That's not very hard. In this episode, Duc will show you how to have this feature in your app.",
+            "thumbnailURL": "https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/888/images/94An7OrmRsWsZKxyYfjN_HOW_SUCCESSFUL_PEOPLE_BECOME_SUCCESSFUL-.png"
+        },
+        
+        {
+            "title": "Complete Guide on Mastering Auto Layout in iOS",
+            "link": "https://www.wallie.mykajabi.com/blog/complete-guide-on-mastering-auto-layout-in-ios",
+            "pubDate": "Mon, 28 Mar 2018",
+            "author": "David Tran",
+            "description": "Have you wanted to make more people discover your apps? How about your users can access the app's content any where in iPhone, via Spotlight? These episodes give you the answer to them!",
+            "thumbnailURL": "https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/888/images/TeZaC95URIK89DdE4iTA_DucTran-41-Auto-Layout-Tutorial.png"
+        },
+        
+        {
+            "title": "REST API and JSON: Build iTunes Store Search",
+            "link": "https://www.wallie.mykajabi.com/blog/rest-api-and-json-build-itunes-store-search",
+            "pubDate": "Mon, 28 Mar 2018",
+            "author": "David Tran",
+            "description": "3D touch is the future of multi-touch! It adds a whole new experience and layer of interaction to your app. In this episode, we are going to learn how to use Peek in 3D touch to display a preview for our app. ",
+            "thumbnailURL": "https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/888/images/CCv3rG9SvfCU1nJEFWQq_33-REST-API-iTunes-Store-Search.png"
+        },
+        
+        {
+            "title": "Forget Code? How to Get Better?",
+            "link": "https://www.wallie.mykajabi.com/blog/forget-code-how-to-get-better",
+            "pubDate": "Mon, 28 Mar 2018",
+            "author": "David Tran",
+            "description" : "Learn everything you need to know about UICollectionView in iOS and WebView. Build a news reader app with them in iOS and Swift",
+            "thumbnailURL": "https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/888/images/QVFGwR0JSdGY79VHUVSH_10-ForgetCodeAndHowToGetBetter-DucTran-CodeMastery-Thumbnail.png"
+        },
+        
+        {
+            "title": "How to Build Social Network Apps for iOS, Android and Web",
+            "link": "https://www.wallie.mykajabi.com/blog/how-to-build-social-network-apps-for-ios-android-and-web",
+            "pubDate": "Thu, 17 Mar 2018",
+            "author": "David Tran",
+            "description": "Learn how to use the camera in iOS devices to take photo and video.",
+            "thumbnailURL": "https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/888/images/8Vey7e2hRb2Pjh0xPyiS_9-HowToBuildSocialNetworkApps-DucTran.png"
+        },
+        
+        {
+            "title": "How to Get Paid as a Freelancer",
+            "link": "https://www.wallie.mykajabi.com/blog/how-to-get-paid-as-a-freelancer",
+            "pubDate": "Tue, 15 Mar 2018",
+            "author": "David Tran",
+            "description": "In this special livecast of Code Hangout #43, we talked all things about Swift from installing the tools to array. This is just part 1 of the series, if you would like to join me in part 2.",
+            "thumbnailURL": "https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/888/images/SGRzv0OQTHmfdKqtrkS9_QAFriday-1-HowtoGetPaidAsAFreelancer-DucTran-Thumbnail-1.png"
+        },
+        
+        {
+            "title": "How Successful People Become Successful?",
+            "link": "https://www.wallie.mykajabi.com/blog/how-successful-people-become-successful",
+            "pubDate": "Sun, 13 Mar 2018",
+            "author": "David Tran",
+                  "description" : "Playing sound and audio files in your app? That's not very hard. In this episode, Duc will show you how to have this feature in your app.",
+            "thumbnailURL": "https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/blogs/888/images/94An7OrmRsWsZKxyYfjN_HOW_SUCCESSFUL_PEOPLE_BECOME_SUCCESSFUL-.png"
+        }
+    ]
+}
